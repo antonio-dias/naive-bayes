@@ -126,3 +126,5 @@ Saída de dados: **([3,4])**
 
 ### Projetos do repositório
 - Gaussian
+- Bernoulli
+- Multinomial
