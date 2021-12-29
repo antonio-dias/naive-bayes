@@ -1,0 +1,21 @@
+nome,sexo,graduacao,idade,salario
+Pessoa 1,Masculino,mestrado,>41,>5k
+Pessoa 2,Feminino,superior completo,31~40,<=5k
+Pessoa 3,Feminino,superior incompleto,21~30,<=5k
+Pessoa 4,Feminino,mestrado,31~40,>5k
+Pessoa 5,Masculino,superior completo,21~30,>5k
+Pessoa 6,Feminino,superior completo,21~30,<=5k
+Pessoa 7,Masculino,superior completo,>41,>5k
+Pessoa 8,Masculino,superior incompleto,21~30,<=5k
+Pessoa 9,Masculino,superior completo,21~30,<=5k
+Pessoa 10,Masculino,superior incompleto,21~30,>5k
+Pessoa 11,Feminino,mestrado,31~40,<=5k
+Pessoa 12,Masculino,superior incompleto,21~30,>5k
+Pessoa 13,Masculino,superior incompleto,>41,<=5k
+Pessoa 14,Feminino,mestrado,21~30,>5k
+Pessoa 15,Feminino,superior incompleto,21~30,<=5k
+Pessoa 16,Masculino,superior completo,31~40,>5k
+Pessoa 17,Feminino,mestrado,>41,>5k
+Pessoa 18,Feminino,superior incompleto,21~30,<=5k
+Pessoa 19,Masculino,mestrado,21~30,>5k
+Pessoa 20,Feminino,superior incompleto,31~40,<=5k

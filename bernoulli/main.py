@@ -38,4 +38,3 @@ print(previsoes, y)
 # Verifica a precisão que o algoritmo teve comparando a base com as previsões
 precisao = accuracy_score(y, previsoes)
 print(precisao)
-

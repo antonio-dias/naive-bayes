@@ -125,6 +125,6 @@ print(predicted)
 Saída de dados: **([3,4])**
 
 ### Projetos do repositório
-- Gaussian
-- Bernoulli
-- Multinomial
+- [Gaussian](https://github.com/antonio-dias/naive-bayes/tree/main/gaussian)
+- [Bernoulli](https://github.com/antonio-dias/naive-bayes/tree/main/bernoulli)
+- [Multinomial](https://github.com/antonio-dias/naive-bayes/tree/main/multinomial)
